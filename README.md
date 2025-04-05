@@ -1,5 +1,4 @@
-The general objective of this project is to develop an AI-Powered Reconnaissance Browser Extension that provides low-noise, passive data collection with a simple click-to analyze feature. 
-Also to collects and processes security-related data to generate structured reports in JSON and PDF formats
+The general objective of this project is to develop an AI-Powered Reconnaissance Browser Extension that provides low-noise, passive data collection with a simple click-to analyze feature. Also to collects and processes security-related data to generate structured reports in JSON and PDF formats
 
 
 And this is our references:
@@ -24,7 +23,4 @@ And this is our references:
 - OWASP. (n.d.). A05:2021—Security misconfiguration. OWASP Top 10, from https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
 
 
-This passive reconnaissance browser extension consolidates multiple nonintrusive security techniques into a single, lightweight tool. 
-By automating web reconnaissance, it helps cybersecurity professionals quickly assess the security posture of a domain without triggering security defenses. With planned AI integration, the tool aims tobecome a smarter, predictive security assistant, offering actionable recommendations rather than just raw data.
-The next step is finalizing AI research and building the browser extension UI & integration. This project has evolved from a simple reconnaissance tool to an AI-powered security assessment platform.
-By integrating AI-driven risk assessment and report generation, our tool is now capable of delivering actionable security insights efficiently. The next step involves finalizing the browser extension’s UI and ensuring seamless report generation across different formats.
+This passive reconnaissance browser extension consolidates multiple nonintrusive security techniques into a single, lightweight tool. By automating web reconnaissance, it helps cybersecurity professionals quickly assess the security posture of a domain without triggering security defenses. With planned AI integration, the tool aims tobecome a smarter, predictive security assistant, offering actionable recommendations rather than just raw data.The next step is finalizing AI research and building the browser extension UI & integration. This project has evolved from a simple reconnaissance tool to an AI-powered security assessment platform. By integrating AI-driven risk assessment and report generation, our tool is now capable of delivering actionable security insights efficiently. The next step involves finalizing the browser extension’s UI and ensuring seamless report generation across different formats.
